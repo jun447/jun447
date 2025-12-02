@@ -2,6 +2,8 @@
 <!-- <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there! +I'm+Junaid+%F0%9F%91%8B;Full+Stack+Developer;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" /></a>
 </h1>  -->
+<h1 align="center">Hey there! 👋 I'm Junaid</h1>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jun447&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/jun447?label=Followers&style=flat-square&color=6C63FF" alt="GitHub Followers" />
